@@ -1,0 +1,11 @@
+.listItem {
+  display: flex;
+}
+
+.listItem input {
+  margin-right: 8px;
+}
+
+.listItem p {
+  margin: 0 0 4px 0;
+}
